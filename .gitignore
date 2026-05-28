@@ -1,0 +1,21 @@
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+dist/
+
+# Misc
+*.log
+*.tmp
+*.swp
+
+# VSCode
+.vscode/
+
+# Netlify
+.netlify/
